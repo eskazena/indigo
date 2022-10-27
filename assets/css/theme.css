@@ -1,0 +1,36 @@
+/*!
+ * Theme Name: Bitcoin Robot
+ * Author: Indigo
+ * Author URI: http://indigo.com
+ * Version	 :	1.0.0
+ * Updated	 :	12/10/2022
+*/
+/*! WRITE YOUR CUSTOM STYLE **/
+.tc-light h1, .tc-light h2, .tc-light h5 {
+    color: #1B75BC;
+}
+.sec01 h3 {
+    margin: 0.5em auto 0;
+}
+.align-items-lg-start {
+justify-content: center;
+}
+.feature-text p{
+font-size: 18px;
+}
+.feature-text h4{
+font-size: 24px;
+}
+.tc-light p{
+font-size: 18px;
+}
+.tc-light p span{
+font-weight: 900;
+color: #F05E39;
+}
+.tc-light li:first-child{
+margin-bottom: 20px;
+}
+.cpn-action li:first-child, .btn-grp li:first-child{
+    margin-bottom: initial;
+}
