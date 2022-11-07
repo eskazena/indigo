@@ -13,7 +13,7 @@
     margin: 0.5em auto 0;
 }
 .align-items-lg-start {
-justify-content: center;
+justify-content: space-between;
 }
 .feature-text p{
 font-size: 18px;
@@ -34,3 +34,12 @@ margin-bottom: 20px;
 .cpn-action li:first-child, .btn-grp li:first-child{
     margin-bottom: initial;
 }
+#tyc ol{
+    list-style: initial;
+    margin-left: 20px;
+}
+#tyc li{
+    margin-bottom: 20px;
+
+}
+#strategies .roadmap-text { max-width: 225px;}
